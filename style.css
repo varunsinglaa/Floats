@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.top
+{
+    height: 100px;
+    background-color: #B2D6FF;    
+  }
+  .content 
+  {
+    float: left;                  
+    width: 650px;
+    height: 500px;
+    background-color: #F5CF8E;   
+  }
+ 
+  .footer
+   {
+      overflow: hidden;
+    clear: both;
+
+    background-color: #D6E9FE; 
+  }
+  .sidebar
+   {
+    float: left;               
+    width: 200px;               
+    height: 300px;
+    background-color: #F09A9D;
+  }
+  .head 
+  {
+   
+    width: 900px;
+    margin: 0 auto;
+  }
+  .column 
+  {
+    float: left;
+    width: 31%;
+    margin: 20px 1.15%;
+    height: 160px;
+    background-color: #B2D6FF;    
+  }
